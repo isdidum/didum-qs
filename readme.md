@@ -8,7 +8,7 @@
 This repository shall contain JavaScript library.<br/>
 Dynamic querystructure (simply put, querystructure).
 
-[Visit](https://isdidum.github.io/didum-qs/) my querystructure librar page (gh-pages).
+[Visit](https://isdidum.github.io/didum-qs/) my querystructure library page (gh-pages).
 
 This file has been generated for documentation purposes<br/>
 Revised & updated on Friday, November 12, 2021
