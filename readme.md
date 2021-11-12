@@ -13,6 +13,6 @@ Dynamic querystructure (simply put, querystructure).
 This file has been generated for documentation purposes<br/>
 Revised & updated on Friday, November 12, 2021
 
-`--------------------`<br/>
-*Prepared by Didum* 
+`------------------`<br/>
+*Prepared by Didum* <br/>
 *iusc13@hushmail.com*
