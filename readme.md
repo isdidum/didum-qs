@@ -11,7 +11,7 @@ Dynamic querystructure (simply put, querystructure).
 [Visit](https://isdidum.github.io/didum-qs/) my querystructure librar page (gh-pages).
 
 This file has been generated for documentation purposes<br/>
-Revised & updated on Frida, November 12, 2021
+Revised & updated on Friday, November 12, 2021
 
-*Prepared by Didum*
+*Prepared by Didum*<br/>
 *(iusc13@hushmail.com)*
